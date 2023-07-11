@@ -48,7 +48,7 @@ int Stack::pop(){
      --size;
      return value;
      
-	// Left missing for exercises (notdone)
+	
      
    
      }

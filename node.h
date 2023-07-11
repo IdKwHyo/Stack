@@ -5,6 +5,7 @@ using namespace std;
 
 class NODE{
 	int data;
+
 	NODE *nextPtr;
 public:
 	NODE(char);
